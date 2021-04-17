@@ -20,6 +20,12 @@ public class JavaMacOSDenemeMain {
 		}
 		
 		boolean girisYapmisMi = true;
+		
+		if(girisYapmisMi == true) {
+			System.out.println("Sisteme giriş yapılmış");
+		}else {
+			System.out.println("Sisteme giriş yapılmamış");
+		}
 
 	}
 
