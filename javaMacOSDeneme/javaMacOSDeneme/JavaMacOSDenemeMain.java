@@ -18,6 +18,8 @@ public class JavaMacOSDenemeMain {
 		for (int i : sayiList) {
 			System.out.println(i);
 		}
+		
+		boolean girisYapmisMi = true;
 
 	}
 
