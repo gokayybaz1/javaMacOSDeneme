@@ -15,11 +15,12 @@ public class JavaMacOSDenemeMain {
 		
 		int[] sayiList = {1,5,9,8,5};
 		
+		System.out.println("Hello Java Kampı");		
 		for (int i : sayiList) {
 			System.out.println(i);
 		}
 		
-		boolean girisYapmisMi = true;
+		boolean girisYapmisMi = false;
 		
 		if(girisYapmisMi == true) {
 			System.out.println("Sisteme giriş yapılmış");
